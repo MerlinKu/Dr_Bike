@@ -1,0 +1,24 @@
+{
+  "name": "Dr_Bike",
+  "version": "1.0.0",
+  "description": "Bike Shop Site",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Dr_Bike"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MerlinKu/Dr_Bike.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/MerlinKu/Dr_Bike.git"
+  "bugs": {
+    "url": "https://github.com/MerlinKu/Dr_Bike/issues"
+  },
+  "homepage": "https://github.com/MerlinKu/Dr_Bike#readme",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
