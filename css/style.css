@@ -204,7 +204,7 @@ nav a {
   width: auto;
   text-align: center;
   text-decoration: none;
-  padding: 10px 10px;
+  padding: 10px 8px;
   color: #eee;
   text-decoration: none;
 }
@@ -217,7 +217,7 @@ nav a#openup {
   display: none;
 }
 
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 780px) {
   .hide-on-small {
     display: none;
   }
